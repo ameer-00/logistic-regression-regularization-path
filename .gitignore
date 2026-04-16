@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Data and large files (Optional: keep telecom_churn.csv if you want others to run the code)
+# telecom_churn.csv 
+
+# Plots and output
+# regularization_plot.png
+
+# OS generated files
+.DS_Store
+Thumbs.db
